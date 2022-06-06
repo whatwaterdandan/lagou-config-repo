@@ -1,0 +1,5 @@
+mysql
+ url: dev-http://localhost:3006/db100
+ 
+lagou:
+ message: hello. lagou,100
